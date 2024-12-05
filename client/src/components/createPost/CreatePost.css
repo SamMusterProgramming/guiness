@@ -1,0 +1,16 @@
+.post-content {
+    background-color: black;
+}
+#startCapture {
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 25px;
+    font-size: 24px;
+    color: red;
+}
+#stopCapture {
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 25px;
+    font-size: 24px;
+}

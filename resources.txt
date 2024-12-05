@@ -1,0 +1,7 @@
+1-  https://www.google.com/search?q=make+webcam+video+and+save+file+to+my+API+mongoDB+react+html&sca_esv=639d025745a98286&sxsrf=ADLYWIK5QpTV9Xk_KtYEa_dZrsb_vYyeXg%3A1731424809019&ei=KXIzZ9lggNrA3g_Qh67QCQ&ved=0ahUKEwiZmcmFjNeJAxUALdAFHdCDC5oQ4dUDCA8&uact=5&oq=make+webcam+video+and+save+file+to+my+API+mongoDB+react+html&gs_lp=Egxnd3Mtd2l6LXNlcnAiPG1ha2Ugd2ViY2FtIHZpZGVvIGFuZCBzYXZlIGZpbGUgdG8gbXkgQVBJIG1vbmdvREIgcmVhY3QgaHRtbDIIEAAYgAQYogRIvWZQrwxYuGJwBHgBkAEAmAF-oAHVEaoBBDUuMTa4AQPIAQD4AQGYAhmgAqISwgIKEAAYsAMY1gQYR8ICCBAhGKABGMMEwgIKECEYoAEYwwQYCpgDAIgGAZAGCJIHBDkuMTagB41p&sclient=gws-wiz-serp
+ webcam create live video images using webcam in react 
+ 2- https://javascript.plainenglish.io/image-and-video-capturing-with-react-webcam-f4ea36ed4080
+ images and more in react , webcam
+
+ 3 - https://www.youtube.com/watch?v=lY6icfhap2o 
+ middleware express function 

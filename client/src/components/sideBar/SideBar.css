@@ -1,0 +1,65 @@
+
+.st {
+    width: 100%;
+
+}
+.sidebar {
+    height: 100%;
+    width: 100%;
+    /* position: absolute; */
+    /* top: 0; */
+    left: -250px;
+    /* background-color: #050404; */
+    color: white;
+    transition: 0.7s; /* Smooth sliding effect */
+    padding-top: 20px;
+    z-index: 200; /* Make sure it overlays content */
+}
+
+/* Sidebar links */
+.sidebar a {
+    padding: 10px 15px;
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidebar a:hover {
+    background-color: #575757;
+}
+
+/* Sidebar open state */
+.sidebar.open {
+    left: 0; /* Moves the sidebar into view */
+}
+
+/* Content when sidebar is open */
+.content {
+    margin-left: 0;
+    transition: margin-left 0.3s;
+}
+
+.content.shifted {
+    margin-left: 250px; /* Shift content to the right when sidebar is open */
+}
+
+/* Button to toggle sidebar */
+#sidebarToggle {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 1010;
+    background-color: #111;
+    color: white;
+    border: none;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#sidebarToggle:hover {
+    background-color: #575757;
+}

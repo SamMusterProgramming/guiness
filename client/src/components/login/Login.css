@@ -1,0 +1,42 @@
+
+.loginContainer {
+    width:80%;
+    height:80%;
+    background-color:rgb(232, 231, 231);
+}
+.loginRight {
+    width:40%;
+    height:700px;
+}
+#loginLogo {
+    font-size: 44px;
+}
+.loginLeft {
+    background-color:white;
+    width: 40%;
+    height: 600px;
+    border-radius: 10px;
+}
+.loginLeft input{
+    width: 80%;
+    height: 50px;
+    font-size: 18px;
+    padding-left: 10px;
+    color: black;
+    border-radius: 10px;
+
+}
+.loginLeft button {
+    background-color: rgb(10, 99, 214);
+    width: 40%;
+    height: 55px;
+    border-radius: 10px;
+    color:white;
+    font-size:18px ;
+    font-weight: 500;
+}
+
+#forget {
+    margin-top: 45px;
+    color: rgb(19, 156, 235);
+}

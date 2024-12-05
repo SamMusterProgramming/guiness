@@ -1,0 +1,18 @@
+.sidebar {
+    min-height: 800px;
+    border: 2px solid rgb(168, 67, 168);
+    background-color: rgb(225, 160, 239);
+    display: flex;
+    justify-content:start;
+}
+.sidebar p {
+    color:white;
+    margin-left: 30px;
+    font-size: 14px;
+}
+
+.wrapper {
+    display: flex;
+    flex: wrap;
+    align-content: start;
+}
